@@ -1,4 +1,4 @@
 abstract class Environment {
-  static const dev = 'dev2';
+  static const dev = 'dev3';
   static const prod = 'prod';
 }
